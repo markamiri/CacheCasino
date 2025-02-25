@@ -1,0 +1,92 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String         @id @default(cuid())
+  email        String         @unique
+  username     String         @unique
+  clerkId      String         @unique
+  name         String?
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  balance      Float          @default(500)
+  transactions Transactions[]
+  bets         bets[]
+}
+
+model Transactions {
+  id                String            @id @default(cuid())
+  TransactionType   TransactionType
+  TransactionValue  Float
+  TransactionStatus TransactionStatus
+  userId            String
+  user              User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, id])
+  @@index([userId, id])
+}
+
+model bets {
+  id              String    @id @default(cuid())
+  odds            Float
+  betName         String
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  wager           Float
+  potentialReturn Float
+  status          BetStatus
+  userId          String
+  legs            Legs[]
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, id])
+}
+
+model Legs {
+  id         String   @id @default(cuid())
+  betId      String
+  name       String
+  prop       String
+  odds       Float
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  marketType String?
+  points     String?
+  team       String?
+  gameDate   String?
+  queryName  String?
+  betType String?
+  bet        bets     @relation(fields: [betId], references: [id], onDelete: Cascade)
+  gameid    String?  // 👈 Make it optional
+
+}
+
+model playing_with_neon {
+  id    Int    @id @default(autoincrement())
+  name  String
+  value Float? @db.Real
+}
+
+enum TransactionType {
+  DEPOSIT
+  WITHDRAWAL
+  BET
+}
+
+enum TransactionStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
+
+enum BetStatus {
+  UNSETTLED
+  SETTLED
+  CANCELED
+}

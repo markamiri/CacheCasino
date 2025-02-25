@@ -1,0 +1,1712 @@
+[
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Moneyline",
+                "selections": [
+                    {
+                        "name": "BKN Nets",
+                        "odds": "+260",
+                        "type": "AWAY_MONEYLINE"
+                    },
+                    {
+                        "name": "LA Lakers",
+                        "odds": "-375",
+                        "type": "HOME_MONEYLINE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Game Spread",
+                "selections": [
+                    {
+                        "name": "BKN Nets +6.5",
+                        "odds": "-110",
+                        "type": "AWAY_SPREAD"
+                    },
+                    {
+                        "name": "LA Lakers -6.5",
+                        "odds": "-120",
+                        "type": "HOME_SPREAD"
+                    }
+                ]
+            },
+            {
+                "market_name": "Game Spread",
+                "selections": [
+                    {
+                        "name": "BKN Nets +7.5",
+                        "odds": "-140",
+                        "type": "AWAY_SPREAD"
+                    },
+                    {
+                        "name": "LA Lakers -7.5",
+                        "odds": "+110",
+                        "type": "HOME_SPREAD"
+                    }
+                ]
+            },
+            {
+                "market_name": "Game Spread",
+                "selections": [
+                    {
+                        "name": "BKN Nets +5.5",
+                        "odds": "+120",
+                        "type": "AWAY_SPREAD"
+                    },
+                    {
+                        "name": "LA Lakers -5.5",
+                        "odds": "-160",
+                        "type": "HOME_SPREAD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Total Points",
+                "selections": [
+                    {
+                        "name": "Over 206.5",
+                        "odds": "-115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 206.5",
+                        "odds": "-115",
+                        "type": "UNDER"
+                    }
+                ]
+            },
+            {
+                "market_name": "Total Points",
+                "selections": [
+                    {
+                        "name": "Over 207.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 207.5",
+                        "odds": "-130",
+                        "type": "UNDER"
+                    }
+                ]
+            },
+            {
+                "market_name": "Total Points",
+                "selections": [
+                    {
+                        "name": "Over 205.5",
+                        "odds": "-130",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 205.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "L. James Total Points",
+                "selections": [
+                    {
+                        "name": "Over 29.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 29.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "A. Reaves Total Points",
+                "selections": [
+                    {
+                        "name": "Over 18.5",
+                        "odds": "-115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 18.5",
+                        "odds": "-125",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Russell Total Points",
+                "selections": [
+                    {
+                        "name": "Over 12.5",
+                        "odds": "-115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 12.5",
+                        "odds": "-125",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Keon Johnson Total Points",
+                "selections": [
+                    {
+                        "name": "Over 15.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 15.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "R. Hachimura Total Points",
+                "selections": [
+                    {
+                        "name": "Over 11.5",
+                        "odds": "-115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 11.5",
+                        "odds": "-125",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Clowney Total Points",
+                "selections": [
+                    {
+                        "name": "Over 10.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 10.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "M. Christie Total Points",
+                "selections": [
+                    {
+                        "name": "Over 15.5",
+                        "odds": "-120",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 15.5",
+                        "odds": "-120",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Z. Williams Total Points",
+                "selections": [
+                    {
+                        "name": "Over 9.5",
+                        "odds": "-135",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 9.5",
+                        "odds": "-105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Claxton Total Points",
+                "selections": [
+                    {
+                        "name": "Over 10.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 10.5",
+                        "odds": "-140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Knecht Total Points",
+                "selections": [
+                    {
+                        "name": "Over 5.5",
+                        "odds": "-125",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 5.5",
+                        "odds": "-115",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Jal. Wilson Total Points",
+                "selections": [
+                    {
+                        "name": "Over 11.5",
+                        "odds": "-125",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 11.5",
+                        "odds": "-115",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Sharpe Total Points",
+                "selections": [
+                    {
+                        "name": "Over 5.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 5.5",
+                        "odds": "-140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "J. Hayes Total Points",
+                "selections": [
+                    {
+                        "name": "Over 6.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 6.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "B. Simmons Total Points",
+                "selections": [
+                    {
+                        "name": "Over 6.5",
+                        "odds": "-125",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 6.5",
+                        "odds": "-115",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "G. Vincent Total Points",
+                "selections": [
+                    {
+                        "name": "Over 5.5",
+                        "odds": "-120",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 5.5",
+                        "odds": "-120",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Claxton Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 7.5",
+                        "odds": "-120",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 7.5",
+                        "odds": "-120",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "L. James Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 6.5",
+                        "odds": "+115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 6.5",
+                        "odds": "-165",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Sharpe Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 7.5",
+                        "odds": "-125",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 7.5",
+                        "odds": "-115",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "J. Hayes Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 7.5",
+                        "odds": "-135",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 7.5",
+                        "odds": "-105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "R. Hachimura Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 5.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 5.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "B. Simmons Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 4.5",
+                        "odds": "-135",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 4.5",
+                        "odds": "-105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Clowney Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 4.5",
+                        "odds": "+110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 4.5",
+                        "odds": "-160",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "A. Reaves Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 3.5",
+                        "odds": "+110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 3.5",
+                        "odds": "-160",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Z. Williams Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 3.5",
+                        "odds": "-150",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 3.5",
+                        "odds": "+105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Knecht Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "+145",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "-215",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "M. Christie Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 3.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 3.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Jal. Wilson Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 4.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 4.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Keon Johnson Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "-190",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "+135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Russell Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "-110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "-130",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "G. Vincent Total Rebounds",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-250",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "+165",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "L. James Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 6.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 6.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "A. Reaves Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 6.5",
+                        "odds": "+115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 6.5",
+                        "odds": "-165",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "B. Simmons Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 8.5",
+                        "odds": "+110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 8.5",
+                        "odds": "-160",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Russell Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 5.5",
+                        "odds": "-120",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 5.5",
+                        "odds": "-120",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Claxton Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "+110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "-160",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "M. Christie Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "+145",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "-215",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Keon Johnson Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-115",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-125",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Sharpe Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-160",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "+110",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Z. Williams Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-225",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+150",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "G. Vincent Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-200",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "R. Hachimura Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-180",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "+125",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Knecht Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "+110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-160",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Jal. Wilson Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-185",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+130",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "J. Hayes Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-130",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Clowney Total Assists",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-150",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "A. Reaves Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Keon Johnson Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "L. James Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 3.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 3.5",
+                        "odds": "-140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Russell Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-110",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-130",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Clowney Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "-140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Z. Williams Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "+140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-200",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "M. Christie Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 3.5",
+                        "odds": "+120",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 3.5",
+                        "odds": "-170",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Knecht Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "+160",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-240",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "R. Hachimura Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-225",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+150",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Jal. Wilson Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-215",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "+145",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "G. Vincent Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-165",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+115",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Sharpe Total 3-Pointers Made",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "+360",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-800",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "L. James Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 4.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 4.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "A. Reaves Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "B. Simmons Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 2.5",
+                        "odds": "-160",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 2.5",
+                        "odds": "+110",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Russell Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "+140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-200",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Keon Johnson Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "+130",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-185",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Z. Williams Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-170",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+120",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "M. Christie Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Claxton Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-215",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+145",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "J. Hayes Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "Even",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-140",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "Jal. Wilson Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-150",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "+105",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "N. Clowney Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "-160",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "+110",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "R. Hachimura Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "Even",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Sharpe Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "-105",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-135",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "G. Vincent Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 1.5",
+                        "odds": "+130",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 1.5",
+                        "odds": "-185",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_name": "Brooklyn Nets @ Los Angeles Lakers",
+        "status": "IN_PLAY",
+        "start_time": "2025-01-18T03:30:00.000000Z",
+        "markets": [
+            {
+                "market_name": "D. Knecht Total Turnovers",
+                "selections": [
+                    {
+                        "name": "Over 0.5",
+                        "odds": "+140",
+                        "type": "OVER"
+                    },
+                    {
+                        "name": "Under 0.5",
+                        "odds": "-200",
+                        "type": "UNDER"
+                    }
+                ]
+            }
+        ]
+    }
+]
