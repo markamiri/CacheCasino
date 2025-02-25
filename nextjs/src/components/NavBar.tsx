@@ -62,10 +62,10 @@ function NavBar() {
 
         {/* 3️⃣ Main Navigation Buttons */}
         <div className="hidden lg:flex space-x-6">
-          <button className="px-4 py-2 bg-gray-800 rounded-md">temp1</button>
-          <button className="px-4 py-2 bg-gray-800 rounded-md">temp2</button>
-          <button className="px-4 py-2 bg-gray-800 rounded-md">temp3</button>
-          <button className="px-4 py-2 bg-gray-800 rounded-md">temp4</button>
+          <button className="px-4 py-2 bg-gray-800 rounded-md">Casino</button>
+          <button className="px-4 py-2 bg-gray-800 rounded-md">
+            Notifications
+          </button>
 
           <MatchHistoryButton />
         </div>
@@ -118,37 +118,37 @@ function NavBar() {
       {/* ✅ ROW 2 - Secondary Navbar */}
       <div className="secondNavBarRow">
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp1
+          NBA
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp2
+          NHL
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp3
+          NCAAB
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp4
+          MLS
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp5
+          MLB
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp6
+          PGA TOUR
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp7
+          Soccer
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp8
+          Tennis
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp9
+          Horses
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp10
+          NASCAR
         </button>
         <button className="relative text-white hover:text-gray-400 after:block after:h-[2px] after:bg-white after:w-0 after:transition-all after:duration-300 after:mt-1 hover:after:w-full">
-          temp11
+          Fight Night
         </button>
       </div>
     </nav>
